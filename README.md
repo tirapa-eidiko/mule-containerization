@@ -7,7 +7,7 @@ STEP-0: Clone this git repository in your local system:
 
 Clone this repository using "git clone https://github.com/tirapa-eidiko/mule-containerization" 
 
-STEP-1:Download Mule Enterprize Standalone Server for Mulesoft site:
+STEP-1:Download Mule Enterprize Standalone Server form Mulesoft site:
 ====================================================================
 Download mule-ee-distribution-standalone-4.3.0.zip from Mulesoft website and place it in "mule-containerization" folder.
 
