@@ -1,6 +1,12 @@
 # mule-containerization
 
-Below is the list of steps you have to follow in order to work with this repository on containerising mule standalone runtime 4.3.0 and deploying applicating into mule standalone Enterprise runtime 4.3.0
+Below is the list of steps you have to follow in order to work with this repository on containerising mule standalone runtime 4.3.0 and deploying applications into mule standalone Enterprise runtime 4.3.0
+
+Pre-reqs:
+=======================================================
+1) Git should be installed on your local system.
+2) Docker should be installed on your local system.
+3) Mule EE standalone server "mule-ee-distribution-standalone-4.3.0.zip" should be downloaded from mulesoft site
 
 STEP-0: Clone this git repository in your local system:
 =======================================================
