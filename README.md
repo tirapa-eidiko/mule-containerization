@@ -45,7 +45,7 @@ STEP-6: Instanciate Mule Runtime With Applications:
 ===================================================
 
 Now run "docker run -it --rm -p 9082:9082 tirapareddy/muleapps:4.3.0".
-        This docker run command will deploy "mule-docket-application.jar" form "../mule-containerization/MuleApps/apps" into mule ee standalone 4.3.0 runtime.
+        This docker run command will deploy "mule-docket-application.jar" form "../mule-containerization/MuleApps/apps" into mule ee standalone 4.3.0 runtime. Additionally, you can place your own mule applications in this folder so that they will be deployed into mule runtie when you instanciate this container image.
         
 STEP-7: Access Mule Application from your system:
 =================================================
